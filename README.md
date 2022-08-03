@@ -6,6 +6,7 @@ This is an Online voting system which can be used for conducting elections in on
 2.eclipse workspace
 3.mysql-connector
 4.servlet-api
+
 ----------TECHNOLOGIES USED
 1.HTML/CSS/JavaScript for frontend
 2.MySQL for backend
