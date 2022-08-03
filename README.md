@@ -3,20 +3,20 @@
 This is an Online voting system which can be used for conducting elections in online-mode.
 
 
----------REQUIREMENTS
+------------------REQUIREMENTS---------------------------------------------------
 1.apache version 10 and database connectivity
 2.eclipse workspace
 3.mysql-connector
 4.servlet-api
 
 
-----------TECHNOLOGIES USED
+--------------------TECHNOLOGIES USED---------------------------------------------
 1.HTML/CSS/JavaScript for frontend
 2.MySQL for backend
 3.Java servlets
 
 
-----------MUST READ!!
+----------MUST READ!! ---------------------------------------------------------------
 Total number of pages - 5
 Welcome page,Login page(For already registered candidates),Register page(for new registrations),Vote page(to select the respective vote),Thankyou page
 
